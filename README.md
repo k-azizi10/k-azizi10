@@ -55,15 +55,16 @@ GUI-based project
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=k-azizi10&show_icons=true&theme=tokyonight)
-----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=k-azizi10&show_icons=true&theme=tokyonight&hide_border=true)
+
+---
 
 ## 🔥 Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=k-azizi10&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=k-azizi10&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karawan-azizi-a47536252)
