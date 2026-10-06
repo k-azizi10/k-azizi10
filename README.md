@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Karawan
 
-🎓 2nd Year Computing Student @ National College of Ireland
+🎓 BS Computing Student @ National College of Ireland
 
 💻 Interested in Software Development, Java, Python & Problem Solving
 
