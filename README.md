@@ -54,10 +54,12 @@ GUI-based project
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=k-azizi10&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=k-azizi10&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-azizi10&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
-
 ## 🔥 Contribution Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=k-azizi10&theme=tokyonight)
