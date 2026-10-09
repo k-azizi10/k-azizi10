@@ -4,7 +4,7 @@
 
 💻 Interested in Software Development, Java, Python & Problem Solving
 
-🌱 Currently learning Data Structures & Algorithms
+🌱 Currently learning Data Structures & Algorithms and OOP
 
 ---
 
