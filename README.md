@@ -1,70 +1,58 @@
-# 👋 Hi, I'm Karawan
+<div align="center">
 
-🎓 BS Computing Student @ National College of Ireland
+<img src="assets/hero.svg" alt="Karawan Azizi — BS Computing student at National College of Ireland" width="100%">
 
-💻 Interested in Software Development, Java, Python & Problem Solving
-
-🌱 Currently learning Data Structures & Algorithms and OOP
+</div>
 
 ---
 
-## 🚀 About Me
+## About
 
-- 🎓 Computing student
-- 💻 Building projects with Java and Python
-- 🧠 Learning Data Structures & Algorithms
-- 🔨 Currently working on BloodTestApp
-- 📚 Improving my software development skills
+BS Computing student at the National College of Ireland (NCI), based in Dublin.
+I build projects in Java and Python, and I'm currently strengthening my Python programming 
 
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=html5&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- Building: BloodTestApp
+- Learning: Data Structures & Algorithms
+- Interested in: software development and problem solving
 
 ---
 
-## 📌 Featured Projects
+## Tech Stack
 
-### 🩸 BloodTestApp
-Java application 
-
-**Tech:** Java
-
-### 🧠 DSA Class Work
-Collection of my Data Structures & Algorithms coursework and practice.
-
-**Tech:** Java
-### 🌍 Quality Education
-GUI-based project 
-
-**Tech:** [technologies]
+| Category | Technologies |
+| :-- | :-- |
+| Languages | Java, Python, HTML5, CSS3 |
+| Tools | Git, GitHub |
 
 ---
 
+## Featured Projects
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=k-azizi10&show_icons=true&theme=tokyonight&hide_border=true)
-
----
-
-## 🔥 Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=k-azizi10&theme=tokyonight&hide_border=true)
+| Project | Description | Stack |
+| :-- | :-- | :-- |
+| [BloodTestApp](https://github.com/k-azizi10/BloodTestApp) | Java application (in progress) | Java |
+| [DSA-class-work](https://github.com/k-azizi10/DSA-class-work) | Data Structures & Algorithms lab work and practice | Java |
+| [Quality-Education](https://github.com/k-azizi10/Quality-Education) | GUI-based project | See repository |
 
 ---
 
-## 📫 Connect With Me
+## GitHub Activity
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karawan-azizi-a47536252)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=k-azizi10&show_icons=true&hide_border=true&bg_color=190B12&title_color=E5B5C7&text_color=F8F0F3&icon_color=C77B9B" alt="GitHub stats" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-azizi10&layout=compact&hide_border=true&bg_color=190B12&title_color=E5B5C7&text_color=F8F0F3" alt="Top languages" height="165">
+
+<img src="https://streak-stats.demolab.com?user=k-azizi10&hide_border=true&background=190B12&ring=C77B9B&fire=E5B5C7&currStreakLabel=E5B5C7&sideLabels=C77B9B&currStreakNum=F8F0F3&sideNums=F8F0F3&dates=C77B9B" alt="Contribution streak" width="100%">
+
+</div>
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karawan_Azizi-701A3D?style=for-the-badge&logo=linkedin&logoColor=F8F0F3)](https://www.linkedin.com/in/karawan-azizi-a47536252)
+[![GitHub](https://img.shields.io/badge/GitHub-k--azizi10-451126?style=for-the-badge&logo=github&logoColor=F8F0F3)](https://github.com/k-azizi10)
+
+<div align="center"><sub>Create with intention. Ship with care.</sub></div>
+
